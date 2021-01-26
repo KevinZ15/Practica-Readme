@@ -84,4 +84,5 @@ print("Hello world")
 <!-- GITHUB TO DO -->
 
 - [x] Limpiar
-- [] Tarea
+
+* [ ] Tarea
